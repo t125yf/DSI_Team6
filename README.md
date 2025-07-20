@@ -28,3 +28,16 @@ Deadlines:
 By Tuesday - done with modeling and cleaning, exploration
 From Tuesday - creating narrative;
  Saturday - presentation
+
+
+![bar plot](images/01_data_exploration/Actual vs.Predicted Quantities (Test Set).png)
+
+
+
+
+
+
+
+
+
+ 
